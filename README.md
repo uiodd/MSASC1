@@ -19,13 +19,13 @@ This is the implementation of [A Multimodal Sentiment Analysis and Diagnostic Me
 This repository contains the source code of our paper, using the following datasets:
 
 - [CMU-MOSI](https://drive.google.com/file/d/1FDDMuPK_r_2HSpc0GNyDucYYUId_UD_8/view?usp=sharing)
-Download the preprocessed datasets and put them into `data/`.
+Download the preprocessed datasets and put them into `dataset/`.
 
-- [CMU-MOSEI](https://drive.google.com/file/d/1IsCctXAjVqxvoeYhgUEVslYm-5t0vOG0/view?usp=sharing)_
-Download the preprocessed datasets and put them into `data/`.
+- [CMU-MOSEI](https://drive.google.com/file/d/1IsCctXAjVqxvoeYhgUEVslYm-5t0vOG0/view?usp=sharing)
+Download the preprocessed datasets and put them into `dataset/`.
 
 - [DAIC-WOZ](https://dcapswoz.ict.usc.edu/)
-  Download the preprocessed datasets and put them into `data/`.
+  Download the preprocessed datasets and put them into `dataset/`.
   Please note that the dataset is available for academic research only and require approval before downloading.
   Once approved, you will be provided with a download link and further usage instructions.
 
@@ -38,7 +38,7 @@ Please follow the steps below in order to be able to train our models:
 pip install -r ./requirements.txt
 ```
 
-2 - Download the preprocessed datasets and put them into `data/`.
+2 - Download the preprocessed datasets and put them into `dataset/`.
 
  
 
