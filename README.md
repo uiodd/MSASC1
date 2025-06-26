@@ -1,19 +1,19 @@
 # MSASC1
-This is the implementation of [A Multimodal Sentiment Analysis and a Diagnostic Method of Depression based on Semantic Conflict]in PyTorch (Version 1.8.1).
+This is the implementation of [A Multimodal Sentiment Analysis and Diagnostic Method of Depression based on Semantic Conflict]in PyTorch (Version 1.8.1).
 
 ## Install
 
 ```
-pytorch-transformers==1.2.0
-numpy==1.20.2
-torch==1.8.1
-torchvision==0.9.1
-tqdm==4.58.0
-transformers==3.0.2
-scikit-learn==0.24.2
-six==1.15.0
-scikit-learn==0.24.2
-wandb==0.10.25
+    pytorch-transformers==1.2.0
+    numpy==1.20.2
+    torch==1.8.1
+    torchvision==0.9.1
+    tqdm==4.58.0
+    transformers==3.0.2
+    scikit-learn==0.24.2
+    six==1.15.0
+    scikit-learn==0.24.2
+    wandb==0.10.25
 ```
 
 This repository contains the source code of our paper, using the following datasets:
