@@ -52,13 +52,17 @@ python train.py
 - `\config\global_configs.py`: Different data sizes trained on three datasetsFor instance, to test on MOSI using the sizes:
 
 ACOUSTIC_DIM = 74
+
 VISUAL_DIM = 27
+
 TEXT_DIM = 768
 
 to test on MOSEI using the sizes:
 
 ACOUSTIC_DIM = 74
+
 VISUAL_DIM = 35
+
 TEXT_DIM = 768
 
 to test on DAIC-WOZ using the sizes:
