@@ -49,7 +49,7 @@ python train.py
 
  ## Document Description
  
-- `\config\global_configs.py`: Different data sizes trained on three datasetsFor instance, to test on MOSI using the sizes:
+- `\config\global_configs.py`: Different data sizes trained on three datasets. For instance, to test on MOSI using the sizes:
 
 ACOUSTIC_DIM = 74
 
