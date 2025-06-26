@@ -25,9 +25,9 @@ Download the preprocessed datasets and put them into `data/`.
 Download the preprocessed datasets and put them into `data/`.
 
 - [DAIC-WOZ](https://dcapswoz.ict.usc.edu/)
-- Download the preprocessed datasets and put them into `data/`.
-- Please note that the dataset is available for academic research only and require approval before downloading.
-- Once approved, you will be provided with a download link and further usage instructions.
+  Download the preprocessed datasets and put them into `data/`.
+  Please note that the dataset is available for academic research only and require approval before downloading.
+  Once approved, you will be provided with a download link and further usage instructions.
 
 ## Prerequisites
 Please follow the steps below in order to be able to train our models:
